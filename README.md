@@ -6,3 +6,9 @@
 # What it does
 - Creates a simple ui for skparab1 search query
 <img width="1024" alt="Screen Shot 2022-02-24 at 10 01 28 AM" src="https://user-images.githubusercontent.com/71990977/155581217-74be6774-b401-4618-a0e6-3329839f68fb.png">
+- When 'submit' is clicked, makes string query of selected options
+- However, HTML default string query isn't the same as format used by skparab1 search
+- For example, The following two are equivilant in value
+<img width="369" alt="Screen Shot 2022-02-24 at 10 04 57 AM" src="https://user-images.githubusercontent.com/71990977/155581734-a0ce4109-4b05-457b-90b6-66fadc19543f.png">
+
+- 
