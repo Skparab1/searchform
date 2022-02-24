@@ -9,11 +9,10 @@
 - When 'submit' is clicked, makes string query of selected options
 - However, HTML default string query isn't the same as format used by skparab1 search
 - For example, The following two are equivilant in value
-'''
+''''
 https://skparab1.github.io/search/?game&js=true
-'''
-'''
+''''
+''''
 https://skparab1.github.io/search/game&py=falsehtml=falsepas=falsemd=falsesv=falsesoftware=falsewebpage=falsearticle=false
-'''
-
+''''
 - 
