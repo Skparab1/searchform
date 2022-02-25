@@ -9,6 +9,8 @@
 - When 'submit' is clicked, makes string query of selected options
 
 - However, HTML default string query format isn't the same as the one used used by skparab1 search
+  - since skparab1 search defaults to true, and makes the parameters = to false
+  - 
 - For example, The following two are equivilant in value
 
 ````
