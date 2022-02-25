@@ -1,4 +1,4 @@
-# searchform
+# Searchform
 - HTML form for skparab1 search
 - also testing html forms
 - use at https://skparab1.github.io/searchform
